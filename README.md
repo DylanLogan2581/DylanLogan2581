@@ -1,1 +1,1 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DylanLogan2581)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DylanLogan2581)
